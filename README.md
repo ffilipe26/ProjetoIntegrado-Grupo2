@@ -25,7 +25,7 @@ Um "mini Google Drive": um computador roda o servidor (programa em Python) e out
 | 1 | Plano de projeto | `01_Plano` | 28/10 | (preencher) | Entregue |
 | 2 | Diagrama da rede | `02_Diagrama_Rede` | 04 e 05/11 | (preencher) | A fazer |
 | 3 | Arquitetura do sistema distribuído | `03_Arquitetura` | 04 e 05/11 | (preencher) | A fazer |
-| 4 | Protótipo e arquivos técnicos | `codigo` | 11 e 12/11 | Filipe Acierno | **Pronto** |
+| 4 | Protótipo e arquivos técnicos | `codigo` | 11 e 12/11 | Filipe Acierno | **Pronto**✅ |
 | 5 | Plano e resultados dos testes | `05_Testes` | 11 e 12/11 | (preencher) | A fazer |
 | 6 | Relatório técnico em português | `06_Relatorio` | 11 e 12/11 (final 19/11) | (preencher) | A fazer |
 | 7 | README técnico em inglês | `07_README_EN` | 11 e 12/11 | (preencher) | A fazer |
